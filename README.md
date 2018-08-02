@@ -9,6 +9,8 @@ LCM1602 IIC controller <br>
 DHT22 Temperature Humidity Sensor <br>
 MicroSD Module <br>
 DS3231 Real Time Clock <br>
+Switch button <br>
+LED <br>
 Battery 9V <br>
 
 Files: <br>
