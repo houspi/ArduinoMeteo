@@ -12,6 +12,6 @@ DS3231 Real Time Clock <br>
 Battery 9V <br>
 
 Files: <br>
-WeatherMeasurement.ino Arduino scketch <br>
+WeatherMeasurement.ino Arduino sketch <br>
 ArquinoMeteo.fzz  schema in Fritzing format <br>
 ArduinoMeteo.png  schema in png format <br>
